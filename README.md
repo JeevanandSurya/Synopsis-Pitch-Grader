@@ -2,7 +2,7 @@
 A machine learning approach to grade pitches for novels and books.
 
 # Data
-GoodReads 100k books
+GoodReads 100k books | Kaggle
 
 # Applications
 - Can be utilized by publishers to predict the success of books.
