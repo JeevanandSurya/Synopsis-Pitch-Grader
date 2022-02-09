@@ -9,8 +9,7 @@ GoodReads 100k books | Kaggle
 - Help new writers to come up with engaging works with high grades.
 
 # Grade
-- Max value of rating is 4.79
-- Min value of rating is 2.51
+- 0.0 - 5.0
 
 # Input
 - Rating is influenced by author's name, genrea, synopsis and title.
